@@ -1,0 +1,44 @@
+form {
+    margin: 0px 10px;
+}
+body {
+    background-image: url('../databaseUser/upload/tt.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+html {
+    width: 100%;
+}
+
+.login-title{
+    margin-top: 2px;
+    margin-bottom: 2px;
+    text-align: center;
+}
+
+.btn-login{
+    float: right;
+}
+.placeholder {
+    width: 100%;
+}
+
+.container {
+    background-color: white;
+    width: 35%;
+    position: absolute;
+    left: 32.8%;
+    top: 15%;
+    border-radius: 25px;
+    border: 2px solid lightskyblue;
+}
+img {
+    width: 60px;
+}
+
+.left { float: left; }
+
+.right { float: right; }
+
+
